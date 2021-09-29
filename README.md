@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @IanBabin
+- 👀 I’m interested in Data Science, Machine Learning, Software Development
+- Associates in CNS (2013, ITT Tech)
+- Bachelor's in Physics, Minor in Mathematics (2020, Louisiana State University)
+- Coursework focused on computational physics and analytical mathematics
+- 📫 How to reach me ian.babin@gmail.com
